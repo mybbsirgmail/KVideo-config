@@ -312,6 +312,14 @@
     "priority": 5
   },
   {
+    "id": "jisu",
+    "name": "🎬极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "uku",
     "name": "🎬U酷影视",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -320,21 +328,12 @@
     "priority": 10
   },
   {
-    "id": "jisu",
-    "name": "🎬极速资源",
-    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 106,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "dbzy",
     "name": "🎬豆瓣资源",
     "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 112,
+    "priority": 113,
     "_comment": "接口解析错误"
   },
   {
@@ -343,7 +342,7 @@
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "接口解析错误"
   },
   {
@@ -352,7 +351,7 @@
     "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "接口解析错误"
   },
   {
@@ -361,7 +360,7 @@
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
