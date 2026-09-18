@@ -144,14 +144,6 @@
     "priority": 1
   },
   {
-    "id": "155zy",
-    "name": "🔞155-资源",
-    "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "yutu",
     "name": "🔞玉兔资源",
     "baseUrl": "https://apiyutu.com/api.php/provide/vod",
@@ -336,12 +328,21 @@
     "priority": 10
   },
   {
+    "id": "155zy",
+    "name": "🔞155-资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "alvin",
     "name": "🔞--AIvin-",
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 122,
+    "priority": 123,
     "_comment": "超时/宕机"
   },
   {
